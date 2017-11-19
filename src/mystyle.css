@@ -1,0 +1,10 @@
+.price {
+    border:1px solid #333;
+    padding: 3px 4px;
+    margin: 0px 2px;
+    cursor: pointer;
+  }
+  .price.active {
+     border:1px solid #f00;
+     color: red;
+  }
